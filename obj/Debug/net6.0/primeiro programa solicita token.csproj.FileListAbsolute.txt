@@ -1,0 +1,19 @@
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\bin\Debug\net6.0\primeiro programa solicita token.exe
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\bin\Debug\net6.0\primeiro programa solicita token.deps.json
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\bin\Debug\net6.0\primeiro programa solicita token.runtimeconfig.json
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\bin\Debug\net6.0\primeiro programa solicita token.dll
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\bin\Debug\net6.0\primeiro programa solicita token.pdb
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.csproj.AssemblyReference.cache
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.AssemblyInfoInputs.cache
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.AssemblyInfo.cs
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.csproj.CoreCompileInputs.cache
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.dll
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\refint\primeiro programa solicita token.dll
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.pdb
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.genruntimeconfig.cache
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\ref\primeiro programa solicita token.dll
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Luis\Desktop\Cursos\exemplo api dotNet\primeiro programa solicita token\obj\Debug\net6.0\primeiro programa solicita token.csproj.CopyComplete
